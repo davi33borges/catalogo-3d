@@ -16,7 +16,10 @@
     background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);
     background-size:40px 40px;background-attachment:fixed}
   body::before{content:"";position:fixed;inset:0;background:radial-gradient(ellipse at top,transparent 0%,var(--bg) 70%);pointer-events:none;z-index:-1}
-  header{max-width:1200px;margin:0 auto;padding:56px 24px 24px}
+  header{max-width:1200px;margin:0 auto;padding:56px 24px 24px;position:relative}
+  .admin{position:absolute;top:20px;right:24px;display:inline-flex;align-items:center;gap:6px;color:var(--muted);text-decoration:none;
+    font-size:13px;border:1px solid var(--line);background:var(--card);padding:7px 12px;border-radius:8px;transition:.15s}
+  .admin:hover{color:var(--accent);border-color:var(--accent)}
   .tag{display:inline-block;font-size:12px;letter-spacing:.15em;text-transform:uppercase;color:var(--accent);
     border:1px solid var(--accent);padding:4px 10px;border-radius:4px;margin-bottom:16px}
   h1{font-size:clamp(32px,6vw,56px);line-height:1;font-weight:700}
@@ -58,6 +61,7 @@
 <body>
 
 <header>
+  <a class="admin" href="admin.html" title="Área do administrador">🔒 Admin</a>
   <div class="tag">Impressão 3D · STL</div>
   <h1 id="titulo">Catálogo <span>3D</span></h1>
   <p id="subtitulo"></p>
