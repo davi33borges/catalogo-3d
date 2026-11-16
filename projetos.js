@@ -9,7 +9,7 @@
 const CONFIG = {
   titulo: "Catálogo 3D",
   subtitulo: "Projetos prontos para imprimir — baixe o .zip com os arquivos STL",
-  pastaDrive: "", // opcional: link da pasta inteira no Drive
+  pastaDrive: "https://drive.google.com/drive/folders/1AAW9gjfc9RS7Fg698vvQrz2wvpLvyuAh", // opcional: link da pasta inteira no Drive
 };
 
 const PROJETOS = [
