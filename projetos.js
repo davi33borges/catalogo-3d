@@ -9,7 +9,7 @@
 const CONFIG = {
   titulo: "Catálogo 3D",
   subtitulo: "Projetos prontos para imprimir — baixe o .zip com os arquivos STL",
-  pastaDrive: "https://drive.google.com/drive/folders/1AAW9gjfc9RS7Fg698vvQrz2wvpLvyuAh", // opcional: link da pasta inteira no Drive
+  pastaDrive: "https://drive.google.com/drive/folders/1AAW9gjfc9RS7Fg698vvQrz2wvpLvyuAh",
 };
 
 const PROJETOS = [
@@ -38,7 +38,7 @@ const PROJETOS = [
     data: "2026-11-15",
   },
   {
-    nome: "Chaveiro UMO com tag NFC",
+    nome: "Chaveiro UMADEB com tag NFC",
     descricao: "Chaveiro redondo de 36 mm com o logo UMO encaixado em cores e espaço para tag NFC adesiva de 25 mm embutida.",
     categoria: "Chaveiros",
     imagem: "imagens/chaveiro-umo-nfc.jpg",
