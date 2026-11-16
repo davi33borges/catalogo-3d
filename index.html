@@ -74,8 +74,10 @@
 
 <div class="modal" id="modal"><img id="modalImg" alt=""></div>
 
-<script src="projetos.js"></script>
 <script>
+  // carrega a lista sempre atualizada (evita cache do GitHub Pages)
+  const _s=document.createElement("script"); _s.src="projetos.js?v="+Date.now(); _s.onload=()=>iniciar(); document.head.appendChild(_s);
+  function iniciar(){
   // Converte link de compartilhamento do Drive em link de download direto
   function linkDownload(url){
     if(!url) return "";
@@ -137,6 +139,7 @@
   });
   modal.onclick=()=>modal.classList.remove("on");
   render();
+  }
 </script>
 </body>
 </html>
