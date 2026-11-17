@@ -101,4 +101,12 @@ const PROJETOS = [
     drive: "https://drive.google.com/file/d/1HNg3YwjLDn0swhjuE84OkAJSzNwFyjbU/view?usp=sharing",
     data: "2026-11-16",
   },
+  {
+    nome: "Caixa para amplificador de fone (MAX4410 + 9V)",
+    descricao: "Caixa compacta de 92 x 64 x 34 mm para a placa MAX4410, com compartimento separado para a bateria 9V. Na frente ficam o potenciômetro com chave on/off e o P2 de saída; atrás, o P2 de entrada e a chave HH para MONO / STEREO. São 3 peças: caixa, fundo da placa (4 parafusos) e porta da bateria (1 parafuso). A ligação está no LEIA-ME.",
+    categoria: "Eletrônica",
+    imagem: "imagens/caixa-amplificador-fone.jpg",
+    drive: "https://drive.google.com/file/d/1jKtGmp5USL9mlce18_9vjZUfEAbADBtY/view?usp=sharing",
+    data: "2026-11-17",
+  },
 ];
