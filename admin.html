@@ -58,6 +58,22 @@
   .row .btn{flex:1;margin:0}
   .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--line);padding:12px 18px;border-radius:10px;z-index:30;display:none;font-size:14px}
   .toast.on{display:block}
+  @media (max-width:767px){
+    header{padding:12px 14px;gap:8px}
+    header h1{font-size:17px;width:100%;margin:0 0 4px}
+    header .btn{flex:1;padding:9px 6px;font-size:13px;text-align:center;white-space:nowrap}
+    main{padding:14px;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+    .card .b{padding:10px}
+    .card h3{font-size:14px}
+    .card .link{font-size:11px}
+    .card .acts{flex-direction:column;gap:6px}
+    .modal{padding:12px}
+    .box{padding:22px 18px}
+    .foto{flex-direction:column;align-items:stretch}
+    .foto img{width:100%}
+    input,textarea{font-size:16px}
+  }
+  @media (max-width:340px){ main{grid-template-columns:1fr} }
 </style>
 </head>
 <body>
