@@ -93,4 +93,12 @@ const PROJETOS = [
     drive: "https://drive.google.com/file/d/1RGjV54kU_FiSd7_ia4Jx0Zaqac1srTAk/view?usp=sharing",
     data: "2026-11-16",
   },
+  {
+    nome: "Porta-lápis lente de câmera (@Giovanna_Fotografaa)",
+    descricao: "Porta-lápis oco em forma de lente zoom 24-70mm, com escalas, janela de distância e chaves AF/MF e LOCK em relevo. Vem em 3 partes (corpo, faixa e @) para escolher as cores na impressão.",
+    categoria: "Escritório",
+    imagem: "imagens/porta-lapis-lente.jpg",
+    drive: "https://drive.google.com/file/d/1HNg3YwjLDn0swhjuE84OkAJSzNwFyjbU/view?usp=sharing",
+    data: "2026-11-16",
+  },
 ];
