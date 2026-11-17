@@ -79,7 +79,7 @@ const PROJETOS = [
   },
   {
     nome: "Mini álbum chaveiro - fotos 3x4 (30 x 40 mm)",
-    descricao: "Livrinho chaveiro com capa de 2 dobradiças e 6 fotos 3x4 em molduras que deslizam em trilhos e abrem para o lado. Inclui capa verde com árvore e vermelha com coração.",
+    descricao: "Livrinho chaveiro com capa de 2 dobradiças e 6 fotos 3x4 em molduras que deslizam em trilhos e abrem para o lado. Inclui capa verde com árvore e vermelha com coração.\n\nAntes de imprimir as 5 molduras deslizantes, imprima uma junto com a moldura base e teste se ela corre bem no trilho. Esse é o encaixe mais justo do projeto",
     categoria: "Natal",
     imagem: "imagens/mini-album-chaveiro-3x4.jpg",
     drive: "https://drive.google.com/file/d/13ZrhtReIYTwucyeH9M_y2leLsMv8Jsox/view?usp=sharing",
