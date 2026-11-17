@@ -77,4 +77,20 @@ const PROJETOS = [
     drive: "https://drive.google.com/file/d/1yedyNhalmTwC_Wp4hl3jC87jXnClT7_9/view?usp=sharing",
     data: "2026-11-16",
   },
+  {
+    nome: "Mini álbum chaveiro - fotos 3x4 (30 x 40 mm)",
+    descricao: "Livrinho chaveiro com capa de 2 dobradiças e 6 fotos 3x4 em molduras que deslizam em trilhos e abrem para o lado. Inclui capa verde com árvore e vermelha com coração.",
+    categoria: "Natal",
+    imagem: "imagens/mini-album-chaveiro-3x4.jpg",
+    drive: "https://drive.google.com/file/d/13ZrhtReIYTwucyeH9M_y2leLsMv8Jsox/view?usp=sharing",
+    data: "2026-11-16",
+  },
+  {
+    nome: "Mini álbum chaveiro - fotos menores (25 x 33 mm)",
+    descricao: "Versão compacta do livrinho chaveiro, para 6 fotos de 25 x 33 mm em molduras deslizantes. Inclui capa verde com árvore e vermelha com coração.",
+    categoria: "Natal",
+    imagem: "imagens/mini-album-chaveiro-pequeno.jpg",
+    drive: "https://drive.google.com/file/d/1RGjV54kU_FiSd7_ia4Jx0Zaqac1srTAk/view?usp=sharing",
+    data: "2026-11-16",
+  },
 ];
