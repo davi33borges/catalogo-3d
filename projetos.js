@@ -87,7 +87,7 @@ const PROJETOS = [
   },
   {
     nome: "Mini álbum chaveiro - fotos menores (25 x 33 mm)",
-    descricao: "Versão compacta do livrinho chaveiro, para 6 fotos de 25 x 33 mm em molduras deslizantes. Inclui capa verde com árvore e vermelha com coração.",
+    descricao: "Versão compacta do livrinho chaveiro, para 6 fotos de 25 x 33 mm em molduras deslizantes. Inclui capa verde com árvore e vermelha com coração.\n\nAntes de imprimir as 5 molduras deslizantes, imprima uma junto com a moldura base e teste se ela corre bem no trilho. Esse é o encaixe mais justo do projeto",
     categoria: "Natal",
     imagem: "imagens/mini-album-chaveiro-pequeno.jpg",
     drive: "https://drive.google.com/file/d/1RGjV54kU_FiSd7_ia4Jx0Zaqac1srTAk/view?usp=sharing",
