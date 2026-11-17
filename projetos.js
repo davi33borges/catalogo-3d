@@ -109,4 +109,20 @@ const PROJETOS = [
     drive: "https://drive.google.com/file/d/1DByjz3lVgTbOcgvlFyuFo7WT5DMeoL_H/view?usp=sharing",
     data: "2026-11-17",
   },
+  {
+    nome: "Lançador de palito (peça única)",
+    descricao: "Brinquedo que lança palitos de dente, impresso em uma peça só e já pronto para usar, sem montagem. Tem mola flexível integrada e um compartimento que guarda palitos: é só virar para baixo para tirar um. Projeto de Its On My Mind (download na MakerWorld).",
+    categoria: "Brinquedos",
+    imagem: "imagens/lancador-de-palito.jpg",
+    drive: "https://makerworld.com/pt/models/1107433-toothpick-launcher-print-in-place?from=search#profileId-1103410",
+    data: "2026-11-17",
+  },
+  {
+    nome: "Lançador de BB com 4 barras (peça única)",
+    descricao: "Lança bolinhas plásticas de 6 mm. Sai da impressora em uma peça só, sem peças extras. O gatilho move um mecanismo de 4 barras que empurra a bolinha contra uma trava na boca; quando a força passa do limite, ela sai de uma vez. A mola zigue-zague só faz o gatilho voltar. Projeto de Its On My Mind (download na MakerWorld).",
+    categoria: "Brinquedos",
+    imagem: "imagens/lancador-bb-4-barras.jpg",
+    drive: "https://makerworld.com/pt/models/1428037-4-bar-linkage-bb-launcher?from=search#profileId-1484418",
+    data: "2026-11-17",
+  },
 ];
